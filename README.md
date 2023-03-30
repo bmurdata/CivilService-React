@@ -1,4 +1,3 @@
-Base URL https://data.cityofnewyork.us/resource/a9md-ynri.json?last_name=%27MURPHY%27&first_name=%27BRIAN%27&mi=%27P%27&exam_no=01149
 
 # Web Development Project 5 -CivilService-React
 
