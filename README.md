@@ -5,7 +5,7 @@ Submitted by:Brian Murphy
 
 This web app: Provides a dashboard to search for civil service listings
 
-Time spent: **X** hours spent in total
+Time spent: 8 hours spent in total
 
 ## Required Features
 
